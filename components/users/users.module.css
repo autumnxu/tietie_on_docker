@@ -1,0 +1,13 @@
+  .toggle {
+    margin-top: 1rem;
+    background-color: rgb(241, 233, 233);
+    color: black;
+    border: none;
+    padding: 0.15rem 1.5rem;
+  }
+  
+ .toggle:hover {
+    background-color: #c53030;
+    color: #f1e1fc;
+  }
+  
